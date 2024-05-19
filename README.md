@@ -1,6 +1,3 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
-
-## A minimal portfolio template for Developers!
 
 <h2 align="center">
   <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
@@ -15,9 +12,6 @@
 ⚡️ Easily Customizable\
 ⚡️ Well organized documentation
 
-## Demo
-
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
 
 ## Why do you need a portfolio? ☝️
 
@@ -129,7 +123,7 @@ It has 2 keys, *logo* and *sections*.
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "",
             "type": "link"
         }
     ]
@@ -407,11 +401,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": ""
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": ""
                 }
             ],
             "tags" : [
@@ -426,7 +420,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": ""
                 }
             ],
             "tags" : [
@@ -446,7 +440,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": ""
                 }
             ],
             "tags" : [
@@ -546,18 +540,4 @@ Once you finish your setup. You need to put your website online!
 I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
-
-- [Mayank Agarwal](https://mayankagarwal09.com)
-
-## Authors
-
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
-
-## Support
-
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
