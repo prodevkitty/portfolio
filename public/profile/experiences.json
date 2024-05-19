@@ -1,0 +1,56 @@
+{
+  "experiences": [
+    {
+      "title": "Full Stack Developer",
+      "subtitle": "ExpertScreenShare",
+      "workType": "Full-time",
+      "workDescription": [
+        "The application allows user to conduct real-time audio calls directly from their browsers, leveraging the power of WebRTC for direct communication and Firebase for backend services.",
+        "Ensured low latency and high-quality media streaming through performance optimizations and best practices in WebRTC.",
+        "Managed signaling data exchange using Firebase to facilitate peer connection setup and designed the database schema to store user data, call metadata, and signaling information.",
+        "Implemented real-time synchronization features to ensure instant data updates and consistency across all clients.",
+        "Developed serverless functions to handle backend logic such as managing call setup, user notifications, and database triggers and leveraged Cloud Functions to perform background tasks and ensure the application scales effortlessly with increasing user load.",
+        "Set up CI/CD pipelines using Vercel to automate testing build, and deployment processes."
+      ],
+      "dateText": "01/2024 – Present"
+    },
+    {
+      "title": "Smart Contract Developer",
+      "subtitle": "Bitrush",
+      "workType": "Contract",
+      "workDescription": [
+        "Created a wallet factory contract for deploying and managing user wallets.",
+        "Used Solidity to develop the contracts with a focus on security using OpenZeppelin libraries and used Rust and Solana Program Library (SPL) for development, emphasizing security.",
+        "Implemented the Minimal Proxy (EIP-1167) pattern to reduce gas costs and batched transactions to minimize on-chain operations.",
+        "Employed Truffle and Hardhat for development, testing, and deployment, ensuring robust contract functionality through extensive testing."
+      ],
+      "dateText": "01/2024 – 04/2024"
+    },
+    {
+      "title": "Frontend | web3 Developer",
+      "subtitle": "GigaDao",
+      "workType": "Full-time",
+      "workDescription": [
+        "This first crankless orderbook DEX on Soalan.",
+        "Developed dynamic and responsive user interfaces using React.js and Next.js annd implemented component-based architecture to ensure resuable and maintainalbe code. Handled complex state interactions and asynchronous data fetching efficiently with Redux and Context Provider API.",
+        "Integrated Web3 functionalities into the frontend, enabling decentralized features and interactions with blockchain technology and utilized Solana's APIs to interact with the blockchain for various functionalities like transactions and data retrieval.",
+        "Conducted unit and integration testing to ensure the robustness and reliability of the application. Used testing libraries, Jest, to automate and streamline the testing process.",
+        "Implemented performance optimization techniques such as code splitting, lazy loading, and efficient state management to enhance the application's speed and responsiveness.",
+        "Documented codebase, API interactions, and component libraries for better maintainability and knowledge transfer."
+      ],
+      "dateText": "03/2022 – 01/2024"
+    },
+    {
+      "title": "Frontend Software Engineer",
+      "subtitle": "Upwork",
+      "workType": "Full-time",
+      "workDescription": [
+        "Led the development of new features, which were rigorously tested under A/B testing methodologies, resulting in improvements in user engagement.",
+        "Improved the team's QA processes, which led to a reduction in bug rates and increased delievery pace.",
+        "Authored comprehensive documentation on Kibana usage for user behavior analysis, improving the team's ability to draw data-driven insights.",
+        "Collaborated with over 10+ international teams on the development of integrated projects, promoting efficient communication and project coherence."
+      ],
+      "dateText": "07/2022 – 05/2023"
+    }
+  ]
+}

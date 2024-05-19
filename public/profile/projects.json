@@ -1,0 +1,105 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/expertscreenshare.png",
+      "title": "ExpertScreenShare",
+      "bodyText": "- ExpertScreenShare made in React.\n -  Customers can post tasks for experts.\n - The experts registed can get notification on phone. \n - They can have a call and experts can get credits exchangable to cash.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://www.expertscreenshare.com/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "Sass", "Firebase", "Axios", "paypal"]
+    },
+    {
+      "image": "images/projects/gigadex.png",
+      "title": "GigaDex",
+      "bodyText": "- This first crankless orderbook DEX on **Soalan**.\n - GigaDEX is a pioneering platform, ottering the first and only exchange for **Solana Fractionalized NFTs**.\n - Providing an unique and exciting platform for trading this volatile and high-risk market.\n",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://dex.gigadao.io/trade"
+        }
+      ],
+      "tags": [
+        "React",
+        "Next",
+        "Web3",
+        "Tailwind CSS",
+        "Sass",
+        "Redux",
+        "Axio",
+        "Web Socket Serice"
+      ]
+    },
+    {
+      "image": "images/projects/djangostars.png",
+      "title": "Djangostarts",
+      "bodyText": "- Custom software development and constultancy.\n - Fintech software development services.\n - Logistics and transportation software development services.\n- Travel software development servie.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://djangostars.com/main/"
+        }
+      ],
+      "tags": ["WordPress", "jQuery", "Bootstrap", "MySQL", "Google Analytics"]
+    },
+    {
+      "image": "images/projects/it-transit.png",
+      "title": "IT-TRANSIT",
+      "bodyText": "- Engineering and information services in the oil and gas industry.\n - Design and development of information systems.\n - Spatial resources creation technologies.\n - Development and formation of specialized databases.\n - Mobile solutions.\n - Technical support and training information consulting.\n ",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://it-transit.com/"
+        }
+      ],
+      "tags": ["WordPress", "jQuery", "MySQL"]
+    },
+    {
+      "image": "images/projects/leathergps.png",
+      "title": "leathergps",
+      "bodyText": "- Offering a wide variety of leather goods, including handbags, wallets, belts, shoes, jackets, and more.\n - A wide selection of leather hides and skins as well as toola and components for leatherworking all avaliable form our trusted sellers.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://leathergps.com/"
+        }
+      ],
+      "tags": ["Next.js", "React", "Tailwind CSS", "Sentry", "Node.js"]
+    },
+    {
+      "image": "images/projects/mctl.png",
+      "title": "MCTL",
+      "bodyText": "- Solicits and enables your community members to propose ideas for activities that can then be converted automatically into events.\n - Enables community residents to view, register, and pay for activities in neighboring communities and far away places.\n - Elicits engagement by volunteers to promote and manage on behalf of organizations, such as parks and recreations​.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://www.mycommunitylives.com/"
+        }
+      ],
+      "tags": [
+        "React",
+        "Headless",
+        "Tailwind CSS",
+        "Stripe",
+        "Amazon S3",
+        "Amazon CloudFront ",
+        "Google Map"
+      ]
+    },
+    {
+      "image": "images/projects/easy-tutor.png",
+      "title": "Easy-Tutor",
+      "bodyText": "- Find your favorite tutor.\n - Maximum flexibility and freedom.\n - Virtual classrooms.\n - Current learning success always visible.\n - Easy tutor cloud.\n ",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://www.easy-tutor.eu/"
+        }
+      ],
+      "tags": ["Vue.js", "Nuxt.js", "Element UI", "Google Analytics"]
+    }
+  ]
+}
