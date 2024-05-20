@@ -1,18 +1,6 @@
 {
   "projects": [
     {
-      "image": "images/projects/expertscreenshare.png",
-      "title": "ExpertScreenShare",
-      "bodyText": "- ExpertScreenShare made in React.\n -  Customers can post tasks for experts.\n - The experts registed can get notification on phone. \n - They can have a call and experts can get credits exchangable to cash.",
-      "links": [
-        {
-          "text": "Live",
-          "href": "https://www.expertscreenshare.com/"
-        }
-      ],
-      "tags": ["React", "JavaScript", "Sass", "Firebase", "Axios", "paypal"]
-    },
-    {
       "image": "images/projects/gigadex.png",
       "title": "GigaDex",
       "bodyText": "- This first crankless orderbook DEX on **Soalan**.\n - GigaDEX is a pioneering platform, ottering the first and only exchange for **Solana Fractionalized NFTs**.\n - Providing an unique and exciting platform for trading this volatile and high-risk market.\n",
